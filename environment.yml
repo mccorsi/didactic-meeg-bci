@@ -35,4 +35,4 @@ dependencies:
 - mne
 - mffpy>=0.5.7
 - voila==0.2.7
-- tornado==6.1
+- tornado
