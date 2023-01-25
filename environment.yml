@@ -36,3 +36,4 @@ dependencies:
 - mffpy>=0.5.7
 - voila==0.2.7
 - tornado
+- pyriemann
